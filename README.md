@@ -1,4 +1,4 @@
-### Xcode by <kbd>ELY</kbd>
+### Xcode by <kbd>ELY</kbd> :desktop_computer: :brasil:
 
 ## Theme
 
