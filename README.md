@@ -1,14 +1,14 @@
-### Xcode by <kbd>ELY</kbd> :desktop_computer: :brasil:
+### :desktop_computer: Xcode by <kbd>ELY</kbd>
 
 ## Theme
 
-#### Save **CyberPunk.xccolortheme** file in xcode themes folder: 
+Save **CyberPunk.xccolortheme** file in xcode themes folder: 
 
 ```
 ~/Library/Developer/Xcode/UserData/
 ```
 
-#### Select or add CyberPunk theme in **Xcode > Preferences > Fonts & Colors**
+Select or add CyberPunk theme in **Xcode > Preferences > Fonts & Colors**
 
 ![CyberPunkThemeImage](/CyberPunkThemeImage.png)
 
