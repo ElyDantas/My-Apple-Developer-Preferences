@@ -1,8 +1,9 @@
-# Xcode ### by <kbd>ELY</kbd>
+# Xcode 
+### by <kbd>ELY</kbd>
 
 ## Theme
 
-#### Save ```CyberPunk.xccolortheme``` file in xcode themes folder: 
+#### Save *CyberPunk.xccolortheme* file in xcode themes folder: 
 
 ```
 ~/Library/Developer/Xcode/UserData/
