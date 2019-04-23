@@ -1,4 +1,4 @@
-### :desktop_computer: Xcode by <kbd>ELY</kbd>
+### :desktop_computer:   Xcode by <kbd>ELY</kbd>
 
 ## Theme
 
