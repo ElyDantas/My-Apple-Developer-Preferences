@@ -14,7 +14,11 @@
 
 ## Key Bindings
 
-#### Replace file or add key bindings into **IDETextKeyBindingSet.plist** from below directory or in Finder with <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>
+#### Replace file or add individual key bindings into IDETextKeyBindingSet.plist
+
+```
+Finder with <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>
+```
 
 ```
 /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/
