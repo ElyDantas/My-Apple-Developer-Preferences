@@ -1,4 +1,13 @@
-# Xcode Key Bindings
+# Xcode by <kbd>ELY</kbd>
+
+## Xcode Themes
+
+1. Save file ```CyberPunk.xccolortheme``` in xcode themes folder: 
+```~/Library/Developer/Xcode/UserData/```
+2. Xcode > Preferences > Fonts & Colors
+3. Select || Add+ CyberPunk theme
+
+## Xcode Key Bindings
 
 ##### Replace/change ```IDETextKeyBindingSet.plist``` file in below directory or in Finder with <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>
 
@@ -6,7 +15,7 @@
 /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/
 ```
 
-# Key Bindings
+## Key Bindings
 
 - Duplicate Current Lines Down <kbd>COMMAND</kbd> + <kbd>D</kbd>
   
