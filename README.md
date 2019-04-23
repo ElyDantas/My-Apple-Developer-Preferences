@@ -8,7 +8,7 @@
 ~/Library/Developer/Xcode/UserData/
 ```
 
-#### Select or add CyberPunk theme in **Xcode > Preferences > Fonts & Colors**#### 
+#### Select or add CyberPunk theme in **Xcode > Preferences > Fonts & Colors** #### 
 
 ![CyberPunkThemeImage](/CyberPunkThemeImage.png)
 
