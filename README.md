@@ -15,10 +15,11 @@
 ## Key Bindings
 
 #### Replace file or add individual key bindings into IDETextKeyBindingSet.plist found in below directory:
+
 ```
 /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/
 ```
-or  <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>  from **Finder**
+Using **Finder**: <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>
 
 - Duplicate Current Lines Down <kbd>COMMAND</kbd> + <kbd>D</kbd>
   
