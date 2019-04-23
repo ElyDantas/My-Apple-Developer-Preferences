@@ -2,18 +2,19 @@
 
 ## Theme
 
-- Save file ```CyberPunk.xccolortheme``` in xcode themes folder: 
+#### Save ```CyberPunk.xccolortheme``` file in xcode themes folder: 
 
-```~/Library/Developer/Xcode/UserData/```
+```
+~/Library/Developer/Xcode/UserData/
+```
 
-- Xcode > Preferences > Fonts & Colors
-- Select || Add+ CyberPunk theme
+#### Select or add CyberPunk theme in ```Xcode > Preferences > Fonts & Colors```
 
 ![CyberPunkThemeImage](/CyberPunkThemeImage.png)
 
 ## Key Bindings
 
-#### Replace or change ```IDETextKeyBindingSet.plist``` key bindings' file in below directory or in Finder with <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>
+#### Replace file or add key bindings into ```IDETextKeyBindingSet.plist``` from below directory or in Finder with <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>
 
 ```
 /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/
