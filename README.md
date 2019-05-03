@@ -5,7 +5,7 @@
 #### Save **CyberPunk.xccolortheme** file in xcode themes folder: #### 
 
 ```
-~/Library/Developer/Xcode/UserData/
+~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
 #### Select or add CyberPunk theme in **Xcode > Preferences > Fonts & Colors** #### 
