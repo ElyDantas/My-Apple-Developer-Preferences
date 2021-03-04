@@ -14,12 +14,13 @@
 
 ## Key Bindings
 
-#### Replace file or add individual key bindings into IDETextKeyBindingSet.plist found in below directory:
+Using **Finder** <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd> search below path:
 
 ```
 /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/
 ```
-Using **Finder**: <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd>
+
+Replace file or add individual key bindings into ```IDETextKeyBindingSet.plist```
 
 - Duplicate Current Lines Down <kbd>COMMAND</kbd> + <kbd>D</kbd>
   
