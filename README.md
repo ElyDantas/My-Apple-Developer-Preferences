@@ -22,19 +22,26 @@ Using **Finder** <kbd>COMMAND</kbd> + <kbd>SHIFT</kbd> + <kbd>G</kbd> search bel
 
 Replace file or add individual key bindings into ```IDETextKeyBindingSet.plist```
 
-- Duplicate Current Lines Down <kbd>COMMAND</kbd> + <kbd>D</kbd>
-  
+Insert into Duplication group:
+
 ```xml  
 <key>Duplicate Current Lines Down</key>
 <string>selectParagraph:, delete:, yank:, moveToBeginningOfParagraph:, yank:, moveUp:, moveToEndOfParagraph:</string>
 ```
 
-- Delete Current Line <kbd>COMMAND</kbd> + <kbd>DELETE</kbd>
+Insert into Deletions group:
 
 ```xml  
 <key>Delete Current Line</key>
 <string>deleteToBeginningOfLine:, moveToEndOfLine:, deleteToBeginningOfLine:, deleteBackward:, moveDown:,moveToBeginningOfLine:</string>
 ```
+
+
+**These key bindings will now be available to be set in Preferences > Key Bindings after. Sugestion:**
+
+- "Duplicate Current Lines Down" &nbsp; <kbd>COMMAND</kbd> + <kbd>D</kbd>
+- "Delete Current Line" &nbsp; <kbd>COMMAND</kbd> + <kbd>DELETE</kbd>
+  
 
 ## Create @3x Image.workflow
 
